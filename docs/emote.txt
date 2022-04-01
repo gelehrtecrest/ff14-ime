@@ -81,6 +81,7 @@
 かちどきをあげる	/hurray	固有名詞
 ひらてうち	/slap	固有名詞
 ひらてうちをする	/slap	固有名詞
+はぐ	/hug	固有名詞
 はぐする	/hug	固有名詞
 だきあう	/embrace	固有名詞
 じけんや	/hildibrand	固有名詞
