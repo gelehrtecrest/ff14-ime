@@ -354,4 +354,8 @@
 つくりわらいのひょうじょうをする	/fakesmile	固有名詞
 ゆでたまご	/egg	固有名詞
 ぶきをかまえる	/draw	固有名詞
+かまえる	/draw	固有名詞
 ぶきをおさめる	/sheathe	固有名詞
+おさめる	/sheathe	固有名詞
+いきごむ	/determined	固有名詞
+こうふく	/content	固有名詞
