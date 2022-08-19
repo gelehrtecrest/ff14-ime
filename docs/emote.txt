@@ -359,3 +359,5 @@
 おさめる	/sheathe	固有名詞
 いきごむ	/determined	固有名詞
 こうふく	/content	固有名詞
+かんせんする	/spirit	固有名詞
+かんせん	/spirit	固有名詞
