@@ -361,3 +361,7 @@
 こうふく	/content	固有名詞
 かんせんする	/spirit	固有名詞
 かんせん	/spirit	固有名詞
+ぱがが	/pagaga	固有名詞
+はんこつせいしんをしめす	/pagaga	固有名詞
+はんこつせいしん	/pagaga	固有名詞
+はんこつ	/pagaga	固有名詞
