@@ -375,3 +375,9 @@
 ヴァレンティオン	/choco	固有名詞
 チョコを食べる	/choco	固有名詞
 チョコ	/choco	固有名詞
+おみみをぴこぴこする	/earwiggle	固有名詞
+おみみをぴこぴこ	/earwiggle	固有名詞
+おみみ	/earwiggle	固有名詞
+ぴこぴこする	/earwiggle	固有名詞
+ぴこぴこ	/earwiggle	固有名詞
+
