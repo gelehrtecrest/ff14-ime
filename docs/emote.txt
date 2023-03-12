@@ -380,4 +380,7 @@
 おみみ	/earwiggle	固有名詞
 ぴこぴこする	/earwiggle	固有名詞
 ぴこぴこ	/earwiggle	固有名詞
+ひめのぶよう	/ladance	固有名詞
+ひめ	/ladance	固有名詞
+ぶよう	/ladance	固有名詞
 
