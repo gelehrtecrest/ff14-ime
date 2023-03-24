@@ -383,4 +383,5 @@
 ひめのぶよう	/ladance	固有名詞
 ひめ	/ladance	固有名詞
 ぶよう	/ladance	固有名詞
+はなす	/converse	固有名詞
 
