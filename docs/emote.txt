@@ -385,4 +385,5 @@
 ぶよう	/ladance	固有名詞
 はなす	/converse	固有名詞
 おどろかす	/frighten	固有名詞
+みため	/petmirage	固有名詞
 
