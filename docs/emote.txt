@@ -386,4 +386,6 @@
 はなす	/converse	固有名詞
 おどろかす	/frighten	固有名詞
 みため	/petmirage	固有名詞
-
+むねにてをあてる	/handtoheart	固有名詞
+むねに	/handtoheart	固有名詞
+てをあてる	/handtoheart	固有名詞
