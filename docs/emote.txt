@@ -389,3 +389,6 @@
 むねにてをあてる	/handtoheart	固有名詞
 むねに	/handtoheart	固有名詞
 てをあてる	/handtoheart	固有名詞
+ぶんけんとみくらべる	/reference	固有名詞
+ぶんけん	/reference	固有名詞
+みくらべる	/reference	固有名詞
