@@ -392,3 +392,8 @@
 ぶんけんとみくらべる	/reference	固有名詞
 ぶんけん	/reference	固有名詞
 みくらべる	/reference	固有名詞
+たけきひかりのこうりん	/advent	固有名詞
+たけき	/advent	固有名詞
+ひかりのこうりん	/advent	固有名詞
+たけきひかり	/advent	固有名詞
+こうりん	/advent	固有名詞
