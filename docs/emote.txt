@@ -228,9 +228,15 @@
 せいえんあお	/cheeron	固有名詞
 せいえんきいろ	/cheerwave	固有名詞
 せいえんあか	/cheerjump	固有名詞
+せいえんしろ	/cheerbright	固有名詞
+せいえんみどり	/cheergreen	固有名詞
+せいえんむらさき	/cheerviolet	固有名詞
 せいえんあおをおくる	/cheeron	固有名詞
 せいえんきいろをおくる	/cheerwave	固有名詞
 せいえんあかをおくる	/cheerjump	固有名詞
+せいえんしろをおくる	/cheerbright	固有名詞
+せいえんみどりをおくる	/cheergreen	固有名詞
+せいえんむらさきをおくる	/cheerviolet	固有名詞
 さぼてんだー	/sabotender	固有名詞
 さぼてんだーぽーず	/sabotender	固有名詞
 さぼてんだーぽーずをきめる	/sabotender	固有名詞
