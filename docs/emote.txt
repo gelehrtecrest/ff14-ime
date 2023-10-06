@@ -404,3 +404,7 @@
 たけきひかり	/advent	固有名詞
 こうりん	/advent	固有名詞
 うなだれる	/slump	固有名詞
+ふらいどちきんをたべる	/eatchicken	固有名詞
+ちきんをたべる	/eatchicken	固有名詞
+ふらいどちきん	/eatchicken	固有名詞
+ちきん	/eatchicken	固有名詞
