@@ -408,3 +408,6 @@
 ちきんをたべる	/eatchicken	固有名詞
 ふらいどちきん	/eatchicken	固有名詞
 ちきん	/eatchicken	固有名詞
+しゅごてんせつのおまじない	/allsaintscharm	固有名詞
+しゅごてんせつ	/allsaintscharm	固有名詞
+おまじない	/allsaintscharm	固有名詞
