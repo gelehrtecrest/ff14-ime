@@ -411,3 +411,7 @@
 しゅごてんせつのおまじない	/allsaintscharm	固有名詞
 しゅごてんせつ	/allsaintscharm	固有名詞
 おまじない	/allsaintscharm	固有名詞
+びーんず・びくとりー	/victoryreveal	固有名詞
+びくとりー	/victoryreveal	固有名詞
+びーんず	/victoryreveal	固有名詞
+ふぉーるがいず	/victoryreveal	固有名詞
