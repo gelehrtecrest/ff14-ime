@@ -415,3 +415,6 @@
 びくとりー	/victoryreveal	固有名詞
 びーんず	/victoryreveal	固有名詞
 ふぉーるがいず	/victoryreveal	固有名詞
+れぽりっとだんすをおどる	/lophop	固有名詞
+れぽりっとだんす	/lophop	固有名詞
+れぽりっと	/lophop	固有名詞
