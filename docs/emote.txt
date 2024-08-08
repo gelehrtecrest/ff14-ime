@@ -420,3 +420,7 @@
 れぽりっと	/lophop	固有名詞
 はーとぽーず	/heart	固有名詞
 はーと	/heart	固有名詞
+おおうちわであおぐ	/uchiwasshoi	固有名詞
+おおうちわ	/uchiwasshoi	固有名詞
+あおぐ	/uchiwasshoi	固有名詞
+うちわ	/uchiwasshoi	固有名詞
