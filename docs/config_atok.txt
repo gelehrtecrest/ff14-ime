@@ -1,0 +1,24 @@
+!!ATOK_TANGO_TEXT_HEADER_1
+!!一覧出力
+!!単語種類;登録単語(*)
+!!出力日時;24/08/10 02:29
+
+ますたーぼりゅーむ	/mastervolume	名詞*
+げーむおん	/mastervolume	名詞*
+びーじーえむ	/bgm	名詞*
+ヴぉいす	/voice	名詞*
+こえ	/voice	名詞*
+しすてむおん	/systemsounds	名詞*
+しすてむさうんど	/systemsounds	名詞*
+かんきょうおん　/ambientsounds	固有名詞	名詞*
+さうんどえふぇくと	/soundeffects	名詞*
+こうかおん	/soundeffects	名詞*
+じぶんのさうんどえふぇくと	/soundeffectsself	名詞*
+じぶんのこうかおん	/soundeffectsself	名詞*
+ぱーてぃのさうんどえふぇくと	/soundeffectsparty	名詞*
+ぱーてぃのこうかおん	/soundeffectsparty	名詞*
+たにんのさうんどえふぇくと	/soundeffectsother	名詞*
+たにんのこうかおん	/soundeffectsother	名詞*
+えんそう	/performsounds	名詞*
+しすてむおんしゅつりょく	/systemsoundsspeaker	名詞*
+しすてむさうんどしゅつりょく	/systemsoundsspeaker	名詞*
