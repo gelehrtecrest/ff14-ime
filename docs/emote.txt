@@ -424,3 +424,7 @@
 おおうちわ	/uchiwasshoi	固有名詞
 あおぐ	/uchiwasshoi	固有名詞
 うちわ	/uchiwasshoi	固有名詞
+みせつけるみぎ	/showright	固有名詞
+みせつける	/showright	固有名詞
+みせつけるひだり	/showleft	固有名詞
+みせつける	/showleft	固有名詞
