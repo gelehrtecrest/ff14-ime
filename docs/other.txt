@@ -1,1 +1,4 @@
-こぴーらいと	(C) SQUARE ENIX CO., LTD. All Rights Reserved.	固有名詞
+こぴーらいと	© SQUARE ENIX	固有名詞
+れいさい	霊災	固有名詞
+せいりんすい	青燐水	固有名詞
+さかつしゅう	砂蠍衆	固有名詞
