@@ -17,3 +17,5 @@
 えんそう	/performsounds	固有名詞
 しすてむおんしゅつりょく	/systemsoundsspeaker	固有名詞
 しすてむさうんどしゅつりょく	/systemsoundsspeaker	固有名詞
+ぺっとみらぷり	/petmirage	固有名詞
+ぺっと	/petmirage	固有名詞

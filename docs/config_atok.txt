@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;24/08/10 02:29
+!!出力日時;24/10/01 00:16
 
 ますたーぼりゅーむ	/mastervolume	名詞*
 げーむおん	/mastervolume	名詞*
@@ -22,3 +22,5 @@
 えんそう	/performsounds	名詞*
 しすてむおんしゅつりょく	/systemsoundsspeaker	名詞*
 しすてむさうんどしゅつりょく	/systemsoundsspeaker	名詞*
+ぺっとみらぷり	/petmirage	名詞*
+ぺっと	/petmirage	名詞*
