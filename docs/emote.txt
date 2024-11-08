@@ -428,3 +428,13 @@
 みせつける	/showright	固有名詞
 みせつけるひだり	/showleft	固有名詞
 みせつける	/showleft	固有名詞
+していをまつ	/attend	固有名詞
+してい	/attend	固有名詞
+まつ	/attend	固有名詞
+みずをまく	/water 固有名詞
+みず	/water 固有名詞
+しぇいかーをふる	/shakedrink	固有名詞
+しぇいかー	/shakedrink	固有名詞
+おふぉかりーをする	/ohokaliy	固有名詞
+おふぉかりー	/ohokaliy	固有名詞
+

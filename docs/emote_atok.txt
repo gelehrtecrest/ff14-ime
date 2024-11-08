@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;24/08/18 10:34
+!!出力日時;24/11/08 17:48
 
 おどろく	/surprised	名詞*
 ふまんをあらわす	/angry	名詞*
@@ -433,3 +433,12 @@
 みせつける	/showright	名詞*
 みせつけるひだり	/showleft	名詞*
 みせつける	/showleft	名詞*
+していをまつ	/attend	名詞*
+してい	/attend	名詞*
+まつ	/attend	名詞*
+みずをまく	/water 固有名詞	名詞*
+みず	/water 固有名詞	名詞*
+しぇいかーをふる	/shakedrink	名詞*
+しぇいかー	/shakedrink	名詞*
+おふぉかりーをする	/ohokaliy	名詞*
+おふぉかりー	/ohokaliy	名詞*
