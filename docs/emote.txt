@@ -438,4 +438,6 @@
 おふぉかりーをする	/ohokaliy	固有名詞
 おふぉかりー	/ohokaliy	固有名詞
 はなたばをおくる	/bouquet	固有名詞
-はなたば	bouquet	固有名詞
+はなたば	/bouquet	固有名詞
+さつえいする	/photograph	固有名詞
+さつえい	/photograph	固有名詞
