@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;25/02/26 03:03
+!!出力日時;25/10/08 01:21
 
 おどろく	/surprised	名詞*
 ふまんをあらわす	/angry	名詞*
@@ -446,3 +446,8 @@
 はなたば	/bouquet	名詞*
 さつえいする	/photograph	名詞*
 さつえい	/photograph	名詞*
+りょくちゃをのむ	/greentea	名詞*
+りょくちゃ	/greentea	名詞*
+せいざしてりょくちゃをのみつづける	/savortea	名詞*
+せいざしてりょくちゃ	/savortea	名詞*
+せいざ	/savortea	名詞*

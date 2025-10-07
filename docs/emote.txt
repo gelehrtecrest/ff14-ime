@@ -441,3 +441,8 @@
 はなたば	/bouquet	固有名詞
 さつえいする	/photograph	固有名詞
 さつえい	/photograph	固有名詞
+りょくちゃをのむ	/greentea	固有名詞
+りょくちゃ	/greentea	固有名詞
+せいざしてりょくちゃをのみつづける	/savortea	固有名詞
+せいざしてりょくちゃ	/savortea	固有名詞
+せいざ	/savortea	固有名詞
