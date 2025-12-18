@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;25/10/08 01:21
+!!出力日時;25/12/18 09:17
 
 おどろく	/surprised	名詞*
 ふまんをあらわす	/angry	名詞*
@@ -451,3 +451,39 @@
 せいざしてりょくちゃをのみつづける	/savortea	名詞*
 せいざしてりょくちゃ	/savortea	名詞*
 せいざ	/savortea	名詞*
+かいとふうまぐかっぷでのむ	/lominsansip	名詞*
+かいとふうまぐかっぷ	/lominsansip	名詞*
+かいとふう	/lominsansip	名詞*
+しんとふうまぐかっぷでのむ	/gridaniansip	名詞*
+しんとふうまぐかっぷ	/gridaniansip	名詞*
+しんとふう	/gridaniansip	名詞*
+さとふうまぐかっぷでのむ	/uldahnsip	名詞*
+さとふうまぐかっぷ	/uldahnsip	名詞*
+さとふう	/uldahnsip	名詞*
+かいとふうまぐかっぷでのみつづける	/lominsangulp	名詞*
+かいとふうまぐかっぷ	/lominsangulp	名詞*
+かいとふう	/lominsangulp	名詞*
+しんとふうまぐかっぷでのみつづける	/gridaniangulp	名詞*
+しんとふうまぐかっぷ	/gridaniangulp	名詞*
+しんとふう	/gridaniangulp	名詞*
+さとふうまぐかっぷでのみつづける	/uldahngulp	名詞*
+さとふうまぐかっぷ	/uldahngulp	名詞*
+さとふう	/uldahngulp	名詞*
+まぐかっぷでのむ	/lominsansip	名詞*
+まぐかっぷでのむ	/gridaniansip	名詞*
+まぐかっぷでのむ	/uldahnsip	名詞*
+まぐかっぷでのみつづける	/lominsangulp	名詞*
+まぐかっぷでのみつづける	/gridaniangulp	名詞*
+まぐかっぷでのみつづける	/uldahngulp	名詞*
+まぐかっぷ	/lominsansip	名詞*
+まぐかっぷ	/gridaniansip	名詞*
+まぐかっぷ	/uldahnsip	名詞*
+まぐかっぷ	/lominsangulp	名詞*
+まぐかっぷ	/gridaniangulp	名詞*
+まぐかっぷ	/uldahngulp	名詞*
+のむ	/lominsansip	名詞*
+のむ	/gridaniansip	名詞*
+のむ	/uldahnsip	名詞*
+のみつづける	/lominsangulp	名詞*
+のみつづける	/gridaniangulp	名詞*
+のみつづける	/uldahngulp	名詞*
