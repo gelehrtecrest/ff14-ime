@@ -482,3 +482,6 @@
 のみつづける	/lominsangulp	固有名詞
 のみつづける	/gridaniangulp	固有名詞
 のみつづける	/uldahngulp	固有名詞
+じだんだをふむ	/stomp	固有名詞
+じだんだ	/stomp	固有名詞
+ぢだんだ	/stomp	固有名詞

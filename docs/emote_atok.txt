@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;25/12/18 09:17
+!!出力日時;26/01/28 00:39
 
 おどろく	/surprised	名詞*
 ふまんをあらわす	/angry	名詞*
@@ -487,3 +487,6 @@
 のみつづける	/lominsangulp	名詞*
 のみつづける	/gridaniangulp	名詞*
 のみつづける	/uldahngulp	名詞*
+じだんだをふむ	/stomp	名詞*
+じだんだ	/stomp	名詞*
+ぢだんだ	/stomp	名詞*
