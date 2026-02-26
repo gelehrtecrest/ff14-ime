@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;26/01/28 00:39
+!!出力日時;26/02/26 19:50
 
 おどろく	/surprised	名詞*
 ふまんをあらわす	/angry	名詞*
@@ -490,3 +490,27 @@
 じだんだをふむ	/stomp	名詞*
 じだんだ	/stomp	名詞*
 ぢだんだ	/stomp	名詞*
+せいえんりずむあか	/cheerrr	名詞*
+せいえんりずむむらさき	/cheerrv	名詞*
+せいえんりずむしろ	/cheerrw	名詞*
+せいえんすろうきいろ	/cheerly	名詞*
+せいえんすろうあお	/cheerlb	名詞*
+せいえんすろうみどり	/cheerlg	名詞*
+せいえんりずむ	/cheerrr	名詞*
+せいえんりずむ	/cheerrv	名詞*
+せいえんりずむ	/cheerrw	名詞*
+せいえんすろう	/cheerly	名詞*
+せいえんすろう	/cheerlb	名詞*
+せいえんすろう	/cheerlg	名詞*
+せいえん	/cheerrr	名詞*
+せいえん	/cheerrv	名詞*
+せいえん	/cheerrw	名詞*
+せいえん	/cheerly	名詞*
+せいえん	/cheerlb	名詞*
+せいえん	/cheerlg	名詞*
+あか	/cheerrr	名詞*
+むらさき	/cheerrv	名詞*
+しろ	/cheerrw	名詞*
+きいろ	/cheerly	名詞*
+あお	/cheerlb	名詞*
+みどり	/cheerlg	名詞*
