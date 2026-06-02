@@ -509,3 +509,7 @@
 きいろ	/cheerly	固有名詞
 あお	/cheerlb	固有名詞
 みどり	/cheerlg	固有名詞
+タコスを食べる	/eattaco	固有名詞
+タコスを食べ続ける	/devourtaco	固有名詞
+タコス	/eattaco	固有名詞
+タコス	/devourtaco	固有名詞

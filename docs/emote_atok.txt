@@ -1,7 +1,7 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !!一覧出力
 !!単語種類;登録単語(*)
-!!出力日時;26/02/26 19:50
+!!出力日時;26/06/02 15:46
 
 おどろく	/surprised	名詞*
 ふまんをあらわす	/angry	名詞*
@@ -514,3 +514,7 @@
 きいろ	/cheerly	名詞*
 あお	/cheerlb	名詞*
 みどり	/cheerlg	名詞*
+タコスを食べる	/eattaco	名詞*
+タコスを食べ続ける	/devourtaco	名詞*
+タコス	/eattaco	名詞*
+タコス	/devourtaco	名詞*
