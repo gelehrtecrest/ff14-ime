@@ -1,0 +1,6 @@
+れでぃちぇっく	/readycheck	固有名詞
+れでぃ	/readycheck	固有名詞
+びーすとさいず	/beastsize	固有名詞
+さいず	/beastsize	固有名詞
+まじゅうずかん	/bestiary	固有名詞
+ずかん	/bestiary	固有名詞
